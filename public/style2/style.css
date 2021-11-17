@@ -340,17 +340,4 @@ ul {
     flex-direction: row;
     flex-wrap: wrap;
   }
-  /* 
-  .contact-email {
-    flex: 20%;
-  }
-  .contact-facebook {
-    flex: 20%;
-  }
-  .contact-github {
-    flex: 20%;
-  }
-  .contact-phone {
-    flex: 20%;
-  } */
 }
