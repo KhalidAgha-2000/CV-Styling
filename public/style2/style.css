@@ -63,8 +63,7 @@ img {
   /* ------------------------- */
   /* Experience */
   #experiences {
-    /* background-color: red; */
-    display: grid;
+     display: grid;
   }
   #experiences > h3 {
     margin-left: 40px;
@@ -261,8 +260,7 @@ ul {
 /* -------------------------- */
 /* contact */
 #contact {
-  /* background-color: red; */
-  text-align: center;
+   text-align: center;
 }
 #contact > h3 {
   display: none;
@@ -270,8 +268,7 @@ ul {
 .contacts {
   display: flex;
   flex-direction: row;
-  /* justify-content: space-evenly; */
-}
+ }
 .contact-email {
   background-image: url(../images/email.png);
   flex: 25%;
